@@ -1,6 +1,12 @@
 * edible sustenance 
 
-A place for food and drink recipes. 
+A place for food and drink recipes.
+
+* getting started 
+
+You'll find a template in templates/
+
+basic gist is, yaml front-matter then markdown below. 
 
 * contributing 
 
